@@ -1,6 +1,8 @@
 # All Types of Flip Flops
    with python Code
 
+**For Code click on View Code**
+
 > NAME :- RANA KALPRAJSINH MAHENDRASINH
 
 > REGISTRATION NUMBER :- IAR/12417
