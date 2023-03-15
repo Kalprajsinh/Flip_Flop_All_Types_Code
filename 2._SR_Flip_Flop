@@ -4,8 +4,7 @@ def AND(a,b,c):
     
 def OR(a,b): 
     return a|b
-                                                                                           GitHub link :-   click 
-
+                           
 def NOT (a):
     return int(not a)
  
